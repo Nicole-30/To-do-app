@@ -1,0 +1,37 @@
+
+ /* li{
+    display: flex;
+    
+}   */
+
+li a {
+    
+    
+    text-decoration: none;
+    color: black;
+    padding: 14px 16px;
+    
+  }
+
+  .bg-pink{
+    background-color: #f621ef;
+    
+  }
+
+  ul {
+    display: flex;
+    
+    
+    list-style-type: none;
+    background-size: 100%;
+  }
+   li a:hover {
+    background-color: #111;
+    color: white;
+  }
+  
+  
+  
+  /* .navbar{
+    width: 100%;
+  }   */

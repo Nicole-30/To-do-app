@@ -1,0 +1,15 @@
+body{
+    background-image: url("../Images/bacground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.maindiv{
+    margin-left: 500px;
+}
+button{
+    padding: 5px;
+    background-color: rgb(237, 5, 198);
+    color: black;
+    border: none;
+
+}
